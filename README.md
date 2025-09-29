@@ -271,11 +271,6 @@ Especializado en desarrollo full stack, blockchain, administración de redes e i
 
 ---
 
-<div align="center">
-  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/TU_USUARIO_SPOTIFY)
-
-</div>
 
 ---
 
@@ -289,14 +284,6 @@ Especializado en desarrollo full stack, blockchain, administración de redes e i
 
 ---
 
-<div align="center">
-  
-### 👁️ Visitas al Perfil
-
-![Visitor Count](https://profile-counter.glitch.me/Saezzz04/count.svg)
-
-</div>
-
 ---
 
 <div align="center">
@@ -305,8 +292,4 @@ Especializado en desarrollo full stack, blockchain, administración de redes e i
 
 ⭐ De [Alex](https://github.com/Saezzz04) - CEO, Founder, Blockchain Expert & Full Stack Developer
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
