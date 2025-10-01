@@ -240,16 +240,6 @@ Especializado en desarrollo full stack, blockchain, administración de redes e i
 
 ---
 
-## 💡 Frase del Día
-
-<div align="center">
-  
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=default)
-
-</div>
-
----
-
 ## 🎮 Más Allá del Código
 
 <div align="center">
@@ -268,21 +258,6 @@ Especializado en desarrollo full stack, blockchain, administración de redes e i
 ```
 
 </div>
-
----
-
-
----
-
-<div align="center">
-  
-### 💭 Quote Aleatorio de Desarrollador
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder)
-
-</div>
-
----
 
 ---
 
