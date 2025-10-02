@@ -51,22 +51,6 @@ Especializado en desarrollo full stack, blockchain, administración de redes e i
 
 ---
 
-### ⚡ Superpoderes
-
-<div align="center">
-
-| 🧠 Resolución de Problemas | 🎨 Creatividad Disruptiva | 🏗️ Arquitectura Escalable |
-|:-------------------------:|:------------------------:|:-------------------------:|
-| Soluciones complejas simplificadas | Pensamiento innovador | Sistemas de alto rendimiento |
-
-| 💼 Visión Empresarial | 🔐 Seguridad Avanzada | 🚀 Implementación Rápida |
-|:-------------------:|:--------------------:|:----------------------:|
-| Estrategia y crecimiento | Fortinet & VMware | From idea to production |
-
-</div>
-
----
-
 ### 🎯 Especialidades Técnicas
 
 <details open>
